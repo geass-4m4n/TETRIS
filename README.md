@@ -17,7 +17,11 @@ The project I intend to build is the famed arcade single player game TETRIS . I 
 1. Download GLFW source files from http://www.glfw.org/download.html
 2. Install Build Dependencies by running sudo apt-get install cmake xorg-dev libglu1-mesa-dev
 3. cd in GLFW directory downloaded in step 1
-4. Run the command cmake -G "Unix Makefiles" in terminal and then'run sudo make' and then 'sudo make install'
+4. Run the command cmake -G "Unix Makefiles" in terminal and then run 
+```sh
+$ sudo make
+$ sudo make install
+```
  
  
 

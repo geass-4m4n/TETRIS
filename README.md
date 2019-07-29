@@ -25,7 +25,14 @@ $ sudo apt-get install cmake xorg-dev libglu1-mesa-dev
 $ sudo make
 $ sudo make install
 ```
- 
+### Next step is to add glad libraries
+1. Copy the glad and KHR folder into /usr/include/
+2. Make sure to keep glad.c in the same directory as main.cpp
+
+### Add SFML  library to your SYSYTEM
+
+
+
  
 
  

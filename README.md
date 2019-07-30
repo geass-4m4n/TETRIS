@@ -33,6 +33,19 @@ $ sudo make install
 ```sh
 $ sudo apt-get install libsfml-dev
 ```
+## RUNNING CODE
+1. download the project from github
+2. apply the commands
+```sh
+$ g++ -c main.cpp
+$ g++ main.o -o sfml-app -lsfml-graphics -lsfml-window -lsfml-system
+```
+3. Run the file 
+```sh
+$ ./a.out
+```
+## SCREENSHOTS
+
 
 
  

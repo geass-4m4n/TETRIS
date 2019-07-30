@@ -20,8 +20,9 @@ The project I intend to build is the famed arcade single player game TETRIS . I 
 $ sudo apt-get install cmake xorg-dev libglu1-mesa-dev
 ```
 3. cd in GLFW directory downloaded in step 1
-4. Run the command cmake -G "Unix Makefiles" in terminal and then run 
+4. Run the command  in terminal 
 ```sh
+$ cmake -G "Unix Makefiles"
 $ sudo make
 $ sudo make install
 ```

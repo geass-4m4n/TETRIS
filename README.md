@@ -36,6 +36,8 @@ $ sudo apt-get install libsfml-dev
 ## IMAGES USED 
 THESE ARE DOWNLOADED IMAGES USED TO MAKE GAME. These were imported to the game using Simple and Fast Multimedia Library.
 the images were manipulated to form the smooth running game
+
+
 ![alt tag](https://github.com/geass-4m4n/TETRIS/blob/master/images/background.png)
 ![alt tag](https://github.com/geass-4m4n/TETRIS/blob/master/images/frame.png)
 ![alt tag](https://github.com/geass-4m4n/TETRIS/blob/master/images/tiles.png)

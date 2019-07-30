@@ -39,7 +39,7 @@ the images were manipulated to form the smooth running game
 
 
 ![alt tag](https://github.com/geass-4m4n/TETRIS/blob/master/images/background.png)
-![alt tag](https://github.com/geass-4m4n/TETRIS/blob/master/images/frame.png)
+![alt tag](https://github.com/geass-4m4n/TETRIS/blob/master/images/gameover.png)
 ![alt tag](https://github.com/geass-4m4n/TETRIS/blob/master/images/tiles.png)
 
 

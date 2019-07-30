@@ -30,7 +30,9 @@ $ sudo make install
 2. Make sure to keep glad.c in the same directory as main.cpp
 
 ### Add SFML  library to your SYSYTEM
-
+```sh
+$ sudo apt-get install libsfml-dev
+```
 
 
  

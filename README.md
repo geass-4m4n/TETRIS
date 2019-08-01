@@ -56,8 +56,10 @@ $ g++ main.o -o sfml-app -lsfml-graphics -lsfml-window -lsfml-system
 $ ./a.out
 ```
 ## SCREENSHOTS
+SCREENSHOTS OF GAME - 
 ![alt tag](https://github.com/geass-4m4n/TETRIS/blob/master/screenshots/1s.png)
 ![alt tag](https://github.com/geass-4m4n/TETRIS/blob/master/screenshots/2s.png)
+
 
 
 

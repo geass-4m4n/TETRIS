@@ -53,7 +53,7 @@ $ g++ main.o -o sfml-app -lsfml-graphics -lsfml-window -lsfml-system
 ```
 3. Run the file 
 ```sh
-$ ./a.out
+$ ./sfml-app
 ```
 ## SCREENSHOTS
 SCREENSHOTS OF GAME - 
